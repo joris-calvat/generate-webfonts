@@ -1,0 +1,22 @@
+{
+  "name": "generate-webfonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joris-calvat/generate-webfonts.git"
+  },
+  "author": "joris calvat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joris-calvat/generate-webfonts/issues"
+  },
+  "homepage": "https://github.com/joris-calvat/generate-webfonts#readme",
+  "dependencies": {
+    "@vusion/webfonts-generator": "^0.8.0"
+  }
+}

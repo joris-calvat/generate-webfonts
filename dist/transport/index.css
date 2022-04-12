@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "transport";
+    font-display: swap;
+	src: url("transport.eot?dce149b075dab7df373185625fb4a7ab?#iefix") format("embedded-opentype"),
+url("transport.woff2?dce149b075dab7df373185625fb4a7ab") format("woff2"),
+url("transport.woff?dce149b075dab7df373185625fb4a7ab") format("woff"),
+url("transport.ttf?dce149b075dab7df373185625fb4a7ab") format("truetype"),
+url("transport.svg?dce149b075dab7df373185625fb4a7ab#transport") format("svg");
+}
+
+.icon-transport {
+	line-height: 1;
+}
+
+.icon-transport:before {
+	font-family: transport !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-transport-bike:before {
+	content: "\f101";
+}
+.icon-transport-bus:before {
+	content: "\f102";
+}
+.icon-transport-car:before {
+	content: "\f103";
+}
+.icon-transport-moto:before {
+	content: "\f104";
+}
+.icon-transport-plane:before {
+	content: "\f105";
+}
+.icon-transport-scooter:before {
+	content: "\f106";
+}
+.icon-transport-skateboarding:before {
+	content: "\f107";
+}
+.icon-transport-tractor:before {
+	content: "\f108";
+}
+.icon-transport-tram:before {
+	content: "\f109";
+}

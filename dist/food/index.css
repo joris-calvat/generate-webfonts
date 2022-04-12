@@ -1,0 +1,48 @@
+@font-face {
+	font-family: "food";
+    font-display: swap;
+	src: url("food.eot?fd401961aba0e3c8c32eab567470c13c?#iefix") format("embedded-opentype"),
+url("food.woff2?fd401961aba0e3c8c32eab567470c13c") format("woff2"),
+url("food.woff?fd401961aba0e3c8c32eab567470c13c") format("woff"),
+url("food.ttf?fd401961aba0e3c8c32eab567470c13c") format("truetype"),
+url("food.svg?fd401961aba0e3c8c32eab567470c13c#food") format("svg");
+}
+
+.icon-food {
+	line-height: 1;
+}
+
+.icon-food:before {
+	font-family: food !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-food-bakery:before {
+	content: "\f101";
+}
+.icon-food-cafe:before {
+	content: "\f102";
+}
+.icon-food-cake:before {
+	content: "\f103";
+}
+.icon-food-cookie:before {
+	content: "\f104";
+}
+.icon-food-egg:before {
+	content: "\f105";
+}
+.icon-food-icecream:before {
+	content: "\f106";
+}
+.icon-food-pizza:before {
+	content: "\f107";
+}
+.icon-food-truck:before {
+	content: "\f108";
+}
+.icon-food-wine:before {
+	content: "\f109";
+}
