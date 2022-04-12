@@ -1,15 +1,15 @@
-# generate webfonts
+# Generate webfonts
 
-This project shows how to generate webfonts icons libraries from folders containing svg files.
+This project shows how to generate webfonts icon libraries from folders containing svg files.
 
 The following folders [./icons/transport](./icons/transport) and [./icons/food](./icons/food) contain svg files I picked up from https://fonts.google.com/icons
 
-You can check the generated results
+You can check the results generated from my demo
 
-- [./dist/transport/index.html](./dist/transport/index.html)
-- [./dist/food/index.html](./dist/food/index.html)
+- [./dist/transport/index.html](https://htmlpreview.github.io/?https://github.com/joris-calvat/generate-webfonts/blob/master/dist/transport/index.html)
+- [./dist/food/index.html](https://htmlpreview.github.io/?https://github.com/joris-calvat/generate-webfonts/blob/master/dist/food/index.html)
 
-## install
+## Install
 
 ```
 npm install
